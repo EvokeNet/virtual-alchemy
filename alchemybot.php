@@ -1,4 +1,9 @@
 <?php
+
+//  Virtual Alchemy Bot for Evoke (proof of concept)
+//  by John Moravec - jmoravec@worldbank.org
+//  View README.md for instructions
+
 // We use Guzzle to handle HTTP actions
 // NOTE FOR TEAM: Distro composer is not working with new version of php well, so a new version of composer was manually installed. Use this command to install the dependencies:
 // php /usr/local/bin/composer require guzzlehttp/composer

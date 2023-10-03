@@ -1,4 +1,4 @@
-# Virtual Alchemy for Evoke
+# Virtual Alchemy Bot for Evoke
 
 A proof of concept for providing AI-driven, formative feedback to student work using Evoke Portfolios and ChatGPT
 
