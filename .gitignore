@@ -1,5 +1,6 @@
 # Environment files
 .env
+virtual-alchemy.code-workspace
 
 # Composer files
 composer.phar
