@@ -7,7 +7,7 @@ This script is dependent on two libraries via composer:
     composer require vlucas/phpdotenv
     composer require guzzlehttp/guzzle:^7.0
 
-This PoC may be ran from the terminal:
+This PoC may be run from the terminal:
 
     php alchemybot.php
 
