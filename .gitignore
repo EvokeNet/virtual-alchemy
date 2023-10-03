@@ -1,6 +1,9 @@
 # Environment files
 .env
 virtual-alchemy.code-workspace
+composer.json
+composer.lock
+composer-setup.php
 
 # Composer files
 composer.phar
