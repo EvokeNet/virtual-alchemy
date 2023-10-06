@@ -1,6 +1,6 @@
 # Virtual Alchemy Bot for Evoke
 
-A proof of concept for providing AI-driven, formative feedback to student work using Evoke Portfolios and ChatGPT
+A proof of concept for providing AI-driven, formative feedback to student work using [Evoke Portfolios](https://github.com/EvokeNet/moodle-mod_evokeportfolio) and ChatGPT
 
 This script is dependent on two libraries via composer:
 
