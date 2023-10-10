@@ -11,6 +11,6 @@ This PoC may be run from the terminal:
 
     php alchemybot.php
 
-Edit variables in .var as well in alchemybot.php.
+Edit variables in .env as well in alchemybot.php.
 
 The script first queries the Evoke Portfolio for student assignment posts given the course ID and date ranges (set course ID to zero to retrieve all courses.). The returned json file is echoed to the terminal and each returned portfolio activity post is processed through the OpenAI API. Resultant text from ChatGPT is then echoed in the terminal and posted as a comment to the student work on Moodle.
